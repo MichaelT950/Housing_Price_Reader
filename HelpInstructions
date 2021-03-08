@@ -1,0 +1,12 @@
+print                  - Print houses
+add                    - Add house with specified sqft, beds, baths, zip, year, and price
+max price              - Find max price of house
+min price              - Find min price of house
+average                - Find average price
+find under             - Find houses that are undervalued
+mongo                  - Outputs to mongo
+mongo undervalue       - Outputs undervalued houses to mongo
+save                   - Save current file
+save as                - Save current file as <specifiedName>
+i                      - Instructions
+q                      - exit
